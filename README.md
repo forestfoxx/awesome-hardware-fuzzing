@@ -11,7 +11,21 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Cascade: CPU Fuzzing via Intricate Program Generation](https://github.com/comsec-group/cascade-artifacts) | [source code](https://github.com/comsec-group/cascade-artifacts)
 
-[SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities](https://jaewonhur.github.io/files/jwhur-specdoctor.pdf) | [source code](https://github.com/compsec-snu/specdoctor)
+[Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711)
+
+[SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities](https://jaewonhur.github.io/files/jwhur-specdoctor.pdf) | [source code](https://github.com/vusec/specdoctor)
+
+[Revizor: Testing Black-box CPUs against Speculation Contracts](https://arxiv.org/abs/2105.06872) | [source code](https://github.com/microsoft/sca-fuzzer)
+      
+[SpecFuzz: Bringing Spectre-type vulnerabilities to the surface](https://arxiv.org/abs/1905.10311) | [source code](https://github.com/OleksiiOleksenko/SpecFuzz)
+
+[Blacksmith: Scalable Rowhammering in the Frequency Domain](https://comsec.ethz.ch/wp-content/files/blacksmith_sp22.pdf) | [source code](https://github.com/comsec-group/blacksmith)
+
+[ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/) | [source code](https://github.com/comsec-group/zenhammer)
+
+[TRRespass: Exploiting the Many Sides of Target Row Refresh](https://download.vusec.net/papers/trrespass_sp20.pdf) | [source code](https://github.com/vusec/trrespass) and [modified TRRespass](https://github.com/hyichang0510/Trrespass-modified-) and [another fork](https://github.com/pjattke/trrespass-fork)
+
+[RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing](https://ghostwriteattack.com/) | [source code for GhostWrite PoC](https://github.com/cispa/GhostWrite)
 
 [SIGFuzz: A Framework for Discovering Microarchitectural Timing Side Channels](https://seclab.bu.edu/papers/SIGFuzz-date2023.pdf) | [source code](https://github.com/bu-icsg/SIGFuzz)
 
@@ -28,14 +42,20 @@ A curated list of research and repositories on the novel technique of hardware f
 [MorFuzz: Fuzzing Processor via Runtime Instruction Morphing Enhanced Synchronizable Co-simulation](https://www.usenix.org/system/files/sec23fall-prepub-7-xu-jinyan.pdf) | [source code](https://github.com/sycuricon/MorFuzz)
 
 [DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing](https://www.arxiv.org/pdf/2504.20934) | [source code](https://github.com/sycuricon/DejaVuzz)
+                
+[Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis](https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-medusa) | [source code](https://github.com/flowyroll/medusa)                
 
 [Effective Processor Verification with Logic Fuzzer Enhanced Co-simulation](https://masc.soe.ucsc.edu/docs/micro21.pdf) | [source code for dromajo](https://github.com/chipsalliance/dromajo)
 
 Pre-Silicon Hardware Fuzzing Toolkit | [source code](https://github.com/IntelLabs/PreSiFuzz)
 
-[Sandsifter: the x86 processor fuzzer](https://www.blackhat.com/docs/us-17/thursday/us-17-Domas-Breaking-The-x86-ISA.pdf) | [source code](https://github.com/xoreaxeaxeax/sandsifter) [python3 port](https://github.com/jakiki6/sandsifter) [test runs repo](https://github.com/rigred/sandsifter-tests)
+[Sandsifter: the x86 processor fuzzer](https://www.blackhat.com/docs/us-17/thursday/us-17-Domas-Breaking-The-x86-ISA.pdf) | [source code](https://github.com/xoreaxeaxeax/sandsifter) [python3 port](https://github.com/jakiki6/sandsifter) [test runs repo](https://github.com/rigred/sandsifter-tests) [fork with some fixes](https://github.com/rigred/sandsifter) [Black Hat talk](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 
 Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [sandsifterOS](https://github.com/MikeHorn-git/sandsifterOS), [baresifter](https://github.com/blitz/baresifter)
+
+[Uncovering Hidden Instructions in Armv8-A Implementations](https://rakeshk.folk.ntnu.no/pubs/armshaker_HASP20.pdf) | [source code for Armshaker](https://github.com/frestr/armshaker)
+
+[TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution](https://arxiv.org/abs/2406.08719) | [source code](https://github.com/compsec-snu/tiktag)
 
 [SiliFuzz: Fuzzing CPUs by proxy](https://storage.googleapis.com/gweb-research2023-media/pubtools/6405.pdf) | [source code](https://github.com/google/silifuzz) [Reptar CPU vulnerability](https://bughunters.google.com/blog/5997221712101376/the-reptar-cpu-vulnerability)
 
@@ -71,6 +91,12 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Fuzzing Hardware: Faith or Reality?](https://ieeexplore.ieee.org/document/9642252)
 
+[HScheduler: An execution history-based seed scheduling strategy for hardware fuzzing](https://www.sciencedirect.com/science/article/abs/pii/S0167404825001671)
+
+[FuzzWiz - Fuzzing Framework for Efficient Hardware Coverage](https://arxiv.org/pdf/2410.17732) 
+
+[Accelerating Hardware Verification with Graph Models](https://arxiv.org/pdf/2412.13374) | Note: unrelated to the same-name GraphFuzz[here](https://github.com/hgarrereyn/GraphFuzz) and [here](https://arxiv.org/pdf/2502.15160)
+
 [Fuzzerfly Effect: Hardware Fuzzing for Memory Safety](https://ieeexplore.ieee.org/document/10462151)
 
 [JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing](https://arxiv.org/pdf/2402.09845) | [source code](https://github.com/emsec/confuzz)
@@ -81,6 +107,12 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Towards Functional Coverage-Driven Fuzzing for Chisel Designs](https://woset-workshop.github.io/PDFs/2021/a08.pdf) | [source code](https://github.com/chiselverify/chiselverify)
 
+[Exploring Coverage Metrics in Hardware Fuzzing: A Comprehensive Analysis](https://dl.acm.org/doi/10.1145/3649476.3660386)
+
+[Uniﬁed HW/SW Coverage: A Novel Metric to Boost Coverage-guided Fuzzing for Virtual Prototype based HW/SW Co-Veriﬁcation](https://hets.dfki.de/doc/konf/FDL2022_nbruns.pdf) | [source code for RISC-V virtual prototype](https://github.com/agra-uni-bremen/riscv-vp)
+
+[Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
+
 Other methodologies (honestly they deserve their own separate list because it's not related to fuzzing but since I found them while researching fuzzing approaches I include them here for comparison sake and for my own convenience)
 
 [Graph Neural Network based Hardware Trojan Detection at Intermediate Representative for SoC Platforms](https://dl.acm.org/doi/pdf/10.1145/3526241.3530827)
@@ -88,4 +120,5 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [TIUP : Effective Processor Verification with Tautology-Induced Universal Properties](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473912) | [source code](https://github.com/CrazybinaryLi/TPV)
 
 [Isadora: Auromated information-flow property generation for hardware security verification](https://kastner.ucsd.edu/wp-content/uploads/2022/11/admin/jcen2022-isadora.pdf) 
+
 [Isadora: Automated Information Flow Property Generation for Hardware Designs](https://cd-public.github.io/papers/2021/ASHES2021.pdf) | [source code](https://github.com/cd-public/Isadora)
