@@ -11,7 +11,7 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Cascade: CPU Fuzzing via Intricate Program Generation](https://github.com/comsec-group/cascade-artifacts) | [source code](https://github.com/comsec-group/cascade-artifacts)
 
-[Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711)
+[Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl)
 
 [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities](https://jaewonhur.github.io/files/jwhur-specdoctor.pdf) | [source code](https://github.com/vusec/specdoctor)
 
@@ -23,7 +23,11 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/) | [source code](https://github.com/comsec-group/zenhammer)
 
-[TRRespass: Exploiting the Many Sides of Target Row Refresh](https://download.vusec.net/papers/trrespass_sp20.pdf) | [source code](https://github.com/vusec/trrespass) and [modified TRRespass](https://github.com/hyichang0510/Trrespass-modified-) and [another fork](https://github.com/pjattke/trrespass-fork)
+[Posthammer](https://comsec.ethz.ch/research/dram/posthammer/) | [source code](https://github.com/comsec-group/posthammer/tree/main/native-fuzzer)
+
+[Rubicon: Precise Microarchitectural Attacks with Page-Granular Massaging](https://comsec.ethz.ch/research/dram/rubicon/) | [source code](https://github.com/comsec-group/rubicon) and [Rubicon-enhanced Blacksmith Rowhammer fuzzer](https://github.com/rubicon-artifacts/rubicon-blacksmith/tree/main)
+
+[TRRespass: Exploiting the Many Sides of Target Row Refresh](https://download.vusec.net/papers/trrespass_sp20.pdf) | [source code](https://github.com/vusec/trrespass) and [modified TRRespass](https://github.com/hyichang0510/Trrespass-modified-) and [another fork](https://github.com/pjattke/trrespass-fork) and [another inspired work](https://github.com/mojomojo52/multibank_hammer) and [Sledgehammer paper](https://www.usenix.org/system/files/sec24summer-prepub-482-kang.pdf)
 
 [RISCVuzz: Discovering Architectural CPU Vulnerabilities via Differential Hardware Fuzzing](https://ghostwriteattack.com/) | [source code for GhostWrite PoC](https://github.com/cispa/GhostWrite)
 
@@ -68,6 +72,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 [HyperFuzzing for SoC Security Validation](https://ieeexplore.ieee.org/document/9256500) | [source code](https://github.com/skmuduli92/HyperFuzzer)
 
 [Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing](https://ieeexplore.ieee.org/abstract/document/10546625)
+
+[TaintFuzzer: SoC Security Verification using Taint Inference-enabled Fuzzing](https://ieeexplore.ieee.org/document/10323726)
 
 [SoCFuzzer: SoC Vulnerability Detection using Cost Function enabled Fuzz Testing](https://ieeexplore.ieee.org/document/10137024)
 
@@ -122,3 +128,6 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [Isadora: Auromated information-flow property generation for hardware security verification](https://kastner.ucsd.edu/wp-content/uploads/2022/11/admin/jcen2022-isadora.pdf) 
 
 [Isadora: Automated Information Flow Property Generation for Hardware Designs](https://cd-public.github.io/papers/2021/ASHES2021.pdf) | [source code](https://github.com/cd-public/Isadora)
+
+[CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in RTL](https://comsec.ethz.ch/research/hardware-design-security/cellift/) | [source code](https://github.com/comsec-group/cellift-meta)
+					
