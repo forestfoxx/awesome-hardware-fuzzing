@@ -27,6 +27,12 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Posthammer](https://comsec.ethz.ch/research/dram/posthammer/) | [source code](https://github.com/comsec-group/posthammer/tree/main/native-fuzzer)
 
+[TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments](https://moeinghaniyoun.github.io/files/TEESec.pdf) | [source code](https://github.com/MoeinGhaniyoun/TEESec)
+
+[INTROSPECTRE: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities](https://radu.teodorescu.us/assets/pdf/introspectre_isca2021.pdf)
+
+[SPEECHMINER: A Framework for Investigating and Measuring Speculative Execution Vulnerabilities](https://www.ndss-symposium.org/ndss-paper/speechminer-a-framework-for-investigating-and-measuring-speculative-execution-vulnerabilities/) | [source code](https://github.com/teecert/SpeechMiner)
+
 [Rubicon: Precise Microarchitectural Attacks with Page-Granular Massaging](https://comsec.ethz.ch/research/dram/rubicon/) | [source code](https://github.com/comsec-group/rubicon) and [Rubicon-enhanced Blacksmith Rowhammer fuzzer](https://github.com/rubicon-artifacts/rubicon-blacksmith/tree/main)
 
 [TRRespass: Exploiting the Many Sides of Target Row Refresh](https://download.vusec.net/papers/trrespass_sp20.pdf) | [source code](https://github.com/vusec/trrespass) and [modified TRRespass](https://github.com/hyichang0510/Trrespass-modified-) and [another fork](https://github.com/pjattke/trrespass-fork) and [another inspired work](https://github.com/mojomojo52/multibank_hammer) and [Sledgehammer paper](https://www.usenix.org/system/files/sec24summer-prepub-482-kang.pdf)
@@ -61,11 +67,19 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Uncovering Hidden Instructions in Armv8-A Implementations](https://rakeshk.folk.ntnu.no/pubs/armshaker_HASP20.pdf) | [source code for Armshaker](https://github.com/frestr/armshaker)
 
+[Osiris: Automated Discovery of Microarchitectural Side Channels](https://www.usenix.org/system/files/sec21-weber.pdf) | [source code](https://github.com/cispa/osiris)
+
+[Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels](https://hnemati.github.io/paper/ccs22-leakagetemplates.pdf) | [source code for Plumber](https://github.com/scy-phy/plumber/)
+
+[ABSynthe: Automatic Blackbox Side-channel Synthesis on Commodity Microarchitectures](https://comsec.ethz.ch/wp-content/files/absynthe_ndss20.pdf) | [source code](https://github.com/vusec/absynthe)                
+
 [TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution](https://arxiv.org/abs/2406.08719) | [source code](https://github.com/compsec-snu/tiktag)
 
 [SiliFuzz: Fuzzing CPUs by proxy](https://storage.googleapis.com/gweb-research2023-media/pubtools/6405.pdf) | [source code](https://github.com/google/silifuzz) [Reptar CPU vulnerability](https://bughunters.google.com/blog/5997221712101376/the-reptar-cpu-vulnerability)
 
 [PathFuzz: Broadening Fuzzing Horizons with Footprint Memory for CPUs](https://dl.acm.org/doi/10.1145/3649329.3655911) | [source code](https://github.com/OpenXiangShan/xfuzz)
+
+[Functional Verification for Agile Processor Development: A Case for Workflow Integration](https://github.com/OpenXiangShan/XiangShan-doc/raw/main/publications/jcst2023-workflow-integration.pdf) | [source code](https://github.com/openxiangshan/difftest)
 
 [SSFuzz: Generating syntactic and semantic seeds for RISC-V Processors](https://dl.acm.org/doi/abs/10.1145/3649476.3658712) | [source code](https://github.com/ipasslab/SSFuzz) (not yet opensource?)
 
@@ -141,8 +155,6 @@ Other methodologies (honestly they deserve their own separate list because it's 
 
 [CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in RTL](https://comsec.ethz.ch/research/hardware-design-security/cellift/) | [source code](https://github.com/comsec-group/cellift-meta)
 
-[ABSynthe: Automatic Blackbox Side-channel Synthesis on Commodity Microarchitectures](https://comsec.ethz.ch/wp-content/files/absynthe_ndss20.pdf) | [source code](https://github.com/vusec/absynthe)
-   
-[Osiris: Automated Discovery of Microarchitectural Side Channels](https://www.usenix.org/system/files/sec21-weber.pdf) | [source code](https://github.com/cispa/osiris)
+[A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications](https://radu.teodorescu.us/assets/pdf/barber_cal2022.pdf)
 
-                  
+[HardFails: Insights into Software-Exploitable Hardware Bugs](https://www.usenix.org/system/files/sec19-dessouky.pdf)
