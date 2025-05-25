@@ -13,6 +13,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl)
 
+[Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection](https://arxiv.org/pdf/2410.22555) | Note: hardware fuzzing + IFT (Specure, not yet opensource)
+
 [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities](https://jaewonhur.github.io/files/jwhur-specdoctor.pdf) | [source code](https://github.com/vusec/specdoctor)
 
 [Revizor: Testing Black-box CPUs against Speculation Contracts](https://arxiv.org/abs/2105.06872) | [source code](https://github.com/microsoft/sca-fuzzer)
@@ -73,6 +75,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing](https://ieeexplore.ieee.org/abstract/document/10546625)
 
+[RLFuzz: Accelerating Hardware Fuzzing with Deep Reinforcement Learning](https://www.bibsonomy.org/bibtex/2229ab60e60c1b371f6a6ac51f3e368af/raphael.goetz) | also see [HYDRANOS project](https://hydranos.eu/)
+
 [TaintFuzzer: SoC Security Verification using Taint Inference-enabled Fuzzing](https://ieeexplore.ieee.org/document/10323726)
 
 [SoCFuzzer: SoC Vulnerability Detection using Cost Function enabled Fuzz Testing](https://ieeexplore.ieee.org/document/10137024)
@@ -100,10 +104,16 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 [HScheduler: An execution history-based seed scheduling strategy for hardware fuzzing](https://www.sciencedirect.com/science/article/abs/pii/S0167404825001671)
 
 [FuzzWiz - Fuzzing Framework for Efficient Hardware Coverage](https://arxiv.org/pdf/2410.17732) 
+                     
+[GenHuzz: An Efficient Generative Hardware Fuzzer](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao) | [source code](https://zenodo.org/records/14727632)
+
+[HFL: Hardware Fuzzing Loop with Reinforcement Learning](https://ieeexplore.ieee.org/document/10993080) | [source code TBD?](https://github.com/wu-lichao/Chat-Chip)
 
 [Accelerating Hardware Verification with Graph Models](https://arxiv.org/pdf/2412.13374) | Note: unrelated to the same-name GraphFuzz[here](https://github.com/hgarrereyn/GraphFuzz) and [here](https://arxiv.org/pdf/2502.15160)
 
 [Fuzzerfly Effect: Hardware Fuzzing for Memory Safety](https://ieeexplore.ieee.org/document/10462151)
+
+[Trusting the Trust Anchor: Towards Detecting Cross-Layer Vulnerabilities with Hardware Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3489517.3530638)
 
 [JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing](https://arxiv.org/pdf/2402.09845) | [source code](https://github.com/emsec/confuzz)
 
@@ -130,4 +140,9 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [Isadora: Automated Information Flow Property Generation for Hardware Designs](https://cd-public.github.io/papers/2021/ASHES2021.pdf) | [source code](https://github.com/cd-public/Isadora)
 
 [CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in RTL](https://comsec.ethz.ch/research/hardware-design-security/cellift/) | [source code](https://github.com/comsec-group/cellift-meta)
-					
+
+[ABSynthe: Automatic Blackbox Side-channel Synthesis on Commodity Microarchitectures](https://comsec.ethz.ch/wp-content/files/absynthe_ndss20.pdf) | [source code](https://github.com/vusec/absynthe)
+   
+[Osiris: Automated Discovery of Microarchitectural Side Channels](https://www.usenix.org/system/files/sec21-weber.pdf) | [source code](https://github.com/cispa/osiris)
+
+                  
