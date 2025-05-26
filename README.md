@@ -18,6 +18,8 @@ A curated list of research and repositories on the novel technique of hardware f
 [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities](https://jaewonhur.github.io/files/jwhur-specdoctor.pdf) | [source code](https://github.com/vusec/specdoctor)
 
 [Revizor: Testing Black-box CPUs against Speculation Contracts](https://arxiv.org/abs/2105.06872) | [source code](https://github.com/microsoft/sca-fuzzer)
+
+[Testing side-channel security of cryptographic implementations against future microarchitectures](https://arxiv.org/pdf/2402.00641) | [source code](https://github.com/hw-sw-contracts/leakage-model-testing)
       
 [SpecFuzz: Bringing Spectre-type vulnerabilities to the surface](https://arxiv.org/abs/1905.10311) | [source code](https://github.com/OleksiiOleksenko/SpecFuzz)
 
@@ -129,6 +131,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Trusting the Trust Anchor: Towards Detecting Cross-Layer Vulnerabilities with Hardware Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3489517.3530638)
 
+[Time and Order: Towards Automatically Identifying Side-Channel Vulnerabilities in Enclave Binaries](https://www.usenix.org/system/files/raid2019-wang-wubing.pdf) | [source code for ANABLEPS](https://github.com/OSUSecLab/ANABLEPS)
+
 [JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing](https://arxiv.org/pdf/2402.09845) | [source code](https://github.com/emsec/confuzz)
 
 [SPINALFUZZ: Coverage-Guided Fuzzing for SpinalHDL Designs](https://ics.jku.at/files/2022ETS_SpinalFuzz.pdf) | [source code](https://github.com/ics-jku/spinalfuzz)
@@ -143,7 +147,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
 
-Other methodologies (honestly they deserve their own separate list because it's not related to fuzzing but since I found them while researching fuzzing approaches I include them here for comparison sake and for my own convenience)
+Other methodologies (honestly they deserve their own separate list because it's often not directly related to fuzzing but since I found them while researching fuzzing approaches I include them here for comparison sake and for my own convenience)
 
 [Graph Neural Network based Hardware Trojan Detection at Intermediate Representative for SoC Platforms](https://dl.acm.org/doi/pdf/10.1145/3526241.3530827)
 
@@ -158,3 +162,15 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications](https://radu.teodorescu.us/assets/pdf/barber_cal2022.pdf)
 
 [HardFails: Insights into Software-Exploitable Hardware Bugs](https://www.usenix.org/system/files/sec19-dessouky.pdf)
+
+[CheckMate: Automated Synthesis of Hardware Exploits and Security Litmus Tests](https://www-cs.stanford.edu/people/trippel/pubs/ctrippel_MICRO51.pdf) | [source code](https://github.com/ctrippel/checkmate)
+
+[AutoSVA: Democratizing Formal Veriﬁcation of RTL Module Interactions](https://arxiv.org/pdf/2104.04003) | [source code](https://github.com/PrincetonUniversity/AutoSVA)
+
+[A Survey on Assertion-based Hardware Verification](https://par.nsf.gov/servlets/purl/10353227) 
+
+[Synthesizing Hardware-Software Leakage Contracts for RISC-V Open-Source Processors](https://arxiv.org/pdf/2401.09383) | [source code](https://github.com/gdnmhr/contractgen) and [artifact](https://zenodo.org/records/10491534)
+
+[A Symbolic Approach to Detecting Hardware Trojans Triggered by Don’t Care Transitions](https://dl.acm.org/doi/10.1145/3558392) | [source code](https://github.com/sysrel/HWDCT)
+
+[Specification and Verification of Side-channel Security for Open-source Processors via Leakage Contracts](https://gideonmohr.de/upload/2023-ccs-paper.pdf) | [source code](https://github.com/zilongwang123/LeaVe)
