@@ -1,5 +1,5 @@
 # awesome-hardware-fuzzing
-A curated list of research and repositories on the novel technique of hardware fuzzing. For various reasons, most of existing works target RISC-V, with a few exceptions. 
+A curated list of research and repositories on the novel technique of hardware fuzzing. For various reasons, most of existing works target RISC-V, with some exceptions. 
 
 [The Emergence of Hardware Fuzzing: A Critical Review of its Significance](https://arxiv.org/html/2403.12812v1)
 
@@ -145,11 +145,15 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Trusting the Trust Anchor: Towards Detecting Cross-Layer Vulnerabilities with Hardware Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3489517.3530638)
 
+[PCBleed: Fuzzing for CPU Bugs Through Use of Performance Counters](https://dspace.mit.edu/bitstream/handle/1721.1/156944/muradyan-mnatalie-meng-eecs-2024-thesis.pdf?sequence=1)
+
 [Time and Order: Towards Automatically Identifying Side-Channel Vulnerabilities in Enclave Binaries](https://www.usenix.org/system/files/raid2019-wang-wubing.pdf) | [source code for ANABLEPS](https://github.com/OSUSecLab/ANABLEPS)
 
 [JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing](https://arxiv.org/pdf/2402.09845) | [source code](https://github.com/emsec/confuzz)
 
 [SPINALFUZZ: Coverage-Guided Fuzzing for SpinalHDL Designs](https://ics.jku.at/files/2022ETS_SpinalFuzz.pdf) | [source code](https://github.com/ics-jku/spinalfuzz)
+
+[Core Fuzzing - A Versatile Platform for Security Verification](https://alenkruth.com/media/paper/techcon23-corefuzzing-initial.pdf)
 
 [Veriﬁcation of Chisel Hardware Designs with ChiselVerify](https://kevinlaeufer.com/pdfs/chiselverify_and_chiseltest_formal_micpro.pdf) | [source code](https://github.com/chiselverify/chiselverify)
 
@@ -161,11 +165,15 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Directed Test Generation for Hardware Validation: A Survey](https://www.cise.ufl.edu/research/cad/Publications/csur23.pdf)
 
+[Accelerating Coverage Directed Test Generation for Functional Verification: A Neural Network-based Framework](https://dl.acm.org/doi/10.1145/3194554.3194561)
+
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
 
 [cpufuzz is a dumb, simple and portable CPU fuzzer](https://github.com/a0rtega/cpufuzz)
 
 [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon](https://dl.acm.org/doi/10.1145/3658644.3690376) | [source code](https://github.com/ZJU-SEC/CrossFire)
+
+[Evaluation of Hardware Fuzzing](https://www.esat.kuleuven.be/cosic/thesis/2026/hw_fuzzing_evaluation.pdf) thesis proposal
 
 [Genesys-Pro: Innovations in Test Program Generation for Functional Processor Veriﬁcation](https://uobdv.github.io/Design-Verification/Supplementary/GenesysPro.pdf) old paper
       
@@ -204,3 +212,9 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [A Methodology for Testing CPU Emulators](https://dl.acm.org/doi/10.1145/2522920.2522922) | [source code](https://github.com/sevenseasofbri/EmuFuzz)
 
 [End-to-End Automated Exploit Generation for Validating the Security of Processor Designs](https://www.cs.unc.edu/~rzhang/files/MICRO2018.pdf) | [source code](https://github.com/rzhang2285/Coppelia)
+
+[RTL-ConTest: Concolic Testing on RTL for Detecting Security Vulnerabilities](https://ieeexplore.ieee.org/document/9380345) | [source code](https://github.com/UTD-TIES-LAB/RTL-Contest)
+
+[RTL Verification for Secure Speculation Using Contract Shadow Logic](https://arxiv.org/pdf/2407.12232) | [source code](https://github.com/qinhant/ShadowLogicArtifact)
+
+[Side-Channel Aware Fuzzing](https://arxiv.org/pdf/1908.05012)
