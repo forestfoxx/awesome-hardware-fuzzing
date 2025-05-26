@@ -61,6 +61,12 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Effective Processor Verification with Logic Fuzzer Enhanced Co-simulation](https://masc.soe.ucsc.edu/docs/micro21.pdf) | [source code for dromajo](https://github.com/chipsalliance/dromajo)
 
+[NoCFuzzer: Automating NoC Veriﬁcation in UVM](https://jyhuang91.github.io/papers/tcad2025-nocfuzzer.pdf) | [source code](https://github.com/magicYang1573/NoC-UVM-Testbench)
+
+[VerilogReader: LLM-Aided Hardware Test Generation](https://arxiv.org/pdf/2406.04373) | [source code](https://github.com/magicYang1573/llm-hardware-test-generation)
+
+Bridging the Gap between Hardware Fuzzing and Industrial Verification | [source code](https://github.com/magicYang1573/fast-hw-fuzz)
+
 Pre-Silicon Hardware Fuzzing Toolkit | [source code](https://github.com/IntelLabs/PreSiFuzz)
 
 [Sandsifter: the x86 processor fuzzer](https://www.blackhat.com/docs/us-17/thursday/us-17-Domas-Breaking-The-x86-ISA.pdf) | [source code](https://github.com/xoreaxeaxeax/sandsifter) [python3 port](https://github.com/jakiki6/sandsifter) [test runs repo](https://github.com/rigred/sandsifter-tests) [fork with some fixes](https://github.com/rigred/sandsifter) [Black Hat talk](https://www.youtube.com/watch?v=KrksBdWcZgQ)
@@ -85,6 +91,12 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [SSFuzz: Generating syntactic and semantic seeds for RISC-V Processors](https://dl.acm.org/doi/abs/10.1145/3649476.3658712) | [source code](https://github.com/ipasslab/SSFuzz) (not yet opensource?)
 
+[Symbolic Simulation Enhanced Coverage-Directed Fuzz Testing of RTL Design](https://ieeexplore.ieee.org/document/9401267) | [slides](https://confcats-event-sessions.s3.amazonaws.com/iscas21/slides/1259.pdf)
+
+[Grammar-based fuzz testing for microprocessor RTL design](https://dl.acm.org/doi/10.1016/j.vlsi.2022.05.001)
+
+[UISFuzz: An Efficient Fuzzing Method for CPU Undocumented Instruction Searching](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8863327)
+
 [Hot Fuzz: Assisting verification by fuzz testing microelectronic hardware](https://ieeexplore.ieee.org/document/10192176)
 
 [HyperFuzzing for SoC Security Validation](https://ieeexplore.ieee.org/document/9256500) | [source code](https://github.com/skmuduli92/HyperFuzzer)
@@ -102,6 +114,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 [MABFuzz: Multi-Armed Bandit Algorithms for Fuzzing Processors](https://ieeexplore.ieee.org/abstract/document/10546726)
 
 [DirectFuzz: Automated Test Generation for RTL Designs using Directed Graybox Fuzzing](https://ieeexplore.ieee.org/document/9586289)
+
+[RFUZZ: Coverage-Directed Fuzz Testing of RTL on FPGAs](https://people.eecs.berkeley.edu/~ksen/papers/rfuzz.pdf) | [source code](https://github.com/ekiwi/rfuzz)
 
 [TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities](https://www.usenix.org/system/files/sec22-kande.pdf)
 
@@ -145,8 +159,16 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Uniﬁed HW/SW Coverage: A Novel Metric to Boost Coverage-guided Fuzzing for Virtual Prototype based HW/SW Co-Veriﬁcation](https://hets.dfki.de/doc/konf/FDL2022_nbruns.pdf) | [source code for RISC-V virtual prototype](https://github.com/agra-uni-bremen/riscv-vp)
 
+[Directed Test Generation for Hardware Validation: A Survey](https://www.cise.ufl.edu/research/cad/Publications/csur23.pdf)
+
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
 
+[cpufuzz is a dumb, simple and portable CPU fuzzer](https://github.com/a0rtega/cpufuzz)
+
+[CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon](https://dl.acm.org/doi/10.1145/3658644.3690376) | [source code](https://github.com/ZJU-SEC/CrossFire)
+
+[Genesys-Pro: Innovations in Test Program Generation for Functional Processor Veriﬁcation](https://uobdv.github.io/Design-Verification/Supplementary/GenesysPro.pdf) old paper
+      
 Other methodologies (honestly they deserve their own separate list because it's often not directly related to fuzzing but since I found them while researching fuzzing approaches I include them here for comparison sake and for my own convenience)
 
 [Graph Neural Network based Hardware Trojan Detection at Intermediate Representative for SoC Platforms](https://dl.acm.org/doi/pdf/10.1145/3526241.3530827)
@@ -174,3 +196,11 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [A Symbolic Approach to Detecting Hardware Trojans Triggered by Don’t Care Transitions](https://dl.acm.org/doi/10.1145/3558392) | [source code](https://github.com/sysrel/HWDCT)
 
 [Specification and Verification of Side-channel Security for Open-source Processors via Leakage Contracts](https://gideonmohr.de/upload/2023-ccs-paper.pdf) | [source code](https://github.com/zilongwang123/LeaVe)
+
+[SHarPen: SoC Security Verification by Hardware Penetration Test](https://ieeexplore.ieee.org/document/10044868)
+
+[Hardware Support to Improve Fuzzing Performance and Precision](https://gts3.org/assets/papers/2021/ding:snap.pdf) | [source code](https://github.com/sslab-gatech/SNAP)
+
+[A Methodology for Testing CPU Emulators](https://dl.acm.org/doi/10.1145/2522920.2522922) | [source code](https://github.com/sevenseasofbri/EmuFuzz)
+
+[End-to-End Automated Exploit Generation for Validating the Security of Processor Designs](https://www.cs.unc.edu/~rzhang/files/MICRO2018.pdf) | [source code](https://github.com/rzhang2285/Coppelia)
