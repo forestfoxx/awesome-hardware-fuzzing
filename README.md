@@ -19,6 +19,10 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Revizor: Testing Black-box CPUs against Speculation Contracts](https://arxiv.org/abs/2105.06872) | [source code](https://github.com/microsoft/sca-fuzzer)
 
+[Hide and Seek with Spectres: Efﬁcient discovery of speculative information leaks with random testing](https://arxiv.org/pdf/2301.07642) | [source code](https://github.com/microsoft/sca-fuzzer)
+
+[Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions](https://www.usenix.org/conference/usenixsecurity23/presentation/hofmann) | [source code](https://github.com/microsoft/sca-fuzzer) and [artifact](https://github.com/vusec/SpeculationAtFault-AE)
+
 [Testing side-channel security of cryptographic implementations against future microarchitectures](https://arxiv.org/pdf/2402.00641) | [source code](https://github.com/hw-sw-contracts/leakage-model-testing)
       
 [SpecFuzz: Bringing Spectre-type vulnerabilities to the surface](https://arxiv.org/abs/1905.10311) | [source code](https://github.com/OleksiiOleksenko/SpecFuzz)
