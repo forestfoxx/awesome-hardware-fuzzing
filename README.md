@@ -1,4 +1,4 @@
-# awesome-hardware-fuzzing
+# Awesome hardware fuzzing
 A curated list of research and repositories on the novel technique of hardware fuzzing. For various reasons, most of existing works target RISC-V, with some exceptions. 
 
 [The Emergence of Hardware Fuzzing: A Critical Review of its Significance](https://arxiv.org/html/2403.12812v1)
@@ -11,7 +11,7 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Cascade: CPU Fuzzing via Intricate Program Generation](https://github.com/comsec-group/cascade-artifacts) | [source code](https://github.com/comsec-group/cascade-artifacts)
 
-[Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl)
+[Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl) and [PoCs](https://github.com/vusec/riscv-transient-attacks)
 
 [Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection](https://arxiv.org/pdf/2410.22555) | Note: hardware fuzzing + IFT (Specure, not yet opensource)
 
