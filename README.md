@@ -33,6 +33,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Posthammer](https://comsec.ethz.ch/research/dram/posthammer/) | [source code](https://github.com/comsec-group/posthammer/tree/main/native-fuzzer)
 
+[RISC-H: Rowhammer Attacks on RISC-V](https://comsec-files.ethz.ch/papers/risc-h_dramsec24.pdf)
+
 [TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments](https://moeinghaniyoun.github.io/files/TEESec.pdf) | [source code](https://github.com/MoeinGhaniyoun/TEESec)
 
 [INTROSPECTRE: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities](https://radu.teodorescu.us/assets/pdf/introspectre_isca2021.pdf)
@@ -73,7 +75,7 @@ Bridging the Gap between Hardware Fuzzing and Industrial Verification | [source 
 
 Pre-Silicon Hardware Fuzzing Toolkit | [source code](https://github.com/IntelLabs/PreSiFuzz)
 
-[Sandsifter: the x86 processor fuzzer](https://www.blackhat.com/docs/us-17/thursday/us-17-Domas-Breaking-The-x86-ISA.pdf) | [source code](https://github.com/xoreaxeaxeax/sandsifter) [python3 port](https://github.com/jakiki6/sandsifter) [test runs repo](https://github.com/rigred/sandsifter-tests) [fork with some fixes](https://github.com/rigred/sandsifter) [Black Hat talk](https://www.youtube.com/watch?v=KrksBdWcZgQ)
+[Sandsifter: the x86 processor fuzzer](https://www.blackhat.com/docs/us-17/thursday/us-17-Domas-Breaking-The-x86-ISA.pdf) | [source code](https://github.com/xoreaxeaxeax/sandsifter), [python3 port](https://github.com/jakiki6/sandsifter), [test runs repo](https://github.com/rigred/sandsifter-tests), [fork with some fixes](https://github.com/rigred/sandsifter), [Black Hat talk](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 
 Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [sandsifterOS](https://github.com/MikeHorn-git/sandsifterOS), [baresifter](https://github.com/blitz/baresifter)
 
@@ -87,7 +89,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution](https://arxiv.org/abs/2406.08719) | [source code](https://github.com/compsec-snu/tiktag)
 
-[SiliFuzz: Fuzzing CPUs by proxy](https://storage.googleapis.com/gweb-research2023-media/pubtools/6405.pdf) | [source code](https://github.com/google/silifuzz) [Reptar CPU vulnerability](https://bughunters.google.com/blog/5997221712101376/the-reptar-cpu-vulnerability)
+[SiliFuzz: Fuzzing CPUs by proxy](https://storage.googleapis.com/gweb-research2023-media/pubtools/6405.pdf) | [source code](https://github.com/google/silifuzz), [Reptar CPU vulnerability](https://bughunters.google.com/blog/5997221712101376/the-reptar-cpu-vulnerability)
 
 [PathFuzz: Broadening Fuzzing Horizons with Footprint Memory for CPUs](https://dl.acm.org/doi/10.1145/3649329.3655911) | [source code](https://github.com/OpenXiangShan/xfuzz)
 
@@ -143,7 +145,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [HFL: Hardware Fuzzing Loop with Reinforcement Learning](https://ieeexplore.ieee.org/document/10993080) | [source code TBD?](https://github.com/wu-lichao/Chat-Chip)
 
-[Accelerating Hardware Verification with Graph Models](https://arxiv.org/pdf/2412.13374) | Note: unrelated to the same-name GraphFuzz[here](https://github.com/hgarrereyn/GraphFuzz) and [here](https://arxiv.org/pdf/2502.15160)
+[Accelerating Hardware Verification with Graph Models](https://arxiv.org/pdf/2412.13374) | Note: unrelated to the same-name GraphFuzz [here](https://github.com/hgarrereyn/GraphFuzz) and [here](https://arxiv.org/pdf/2502.15160)
 
 [Fuzzerfly Effect: Hardware Fuzzing for Memory Safety](https://ieeexplore.ieee.org/document/10462151)
 
@@ -172,6 +174,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 [Accelerating Coverage Directed Test Generation for Functional Verification: A Neural Network-based Framework](https://dl.acm.org/doi/10.1145/3194554.3194561)
 
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
+
+[Lost in Translation: Enabling Confused Deputy Attacks on EDA Software with TransFuzz](https://comsec.ethz.ch/research/hardware-design-security/mirtl/) | [source code](https://github.com/comsec-group/mirtl)
 
 [cpufuzz is a dumb, simple and portable CPU fuzzer](https://github.com/a0rtega/cpufuzz)
 
