@@ -181,6 +181,10 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon](https://dl.acm.org/doi/10.1145/3658644.3690376) | [source code](https://github.com/ZJU-SEC/CrossFire)
 
+[Fuzzing on a ChipWhisperer-Nano](https://github.com/x41sec/ChipFuzz)
+
+ChipFuzzer: Towards Fuzzing Matter-based IoT Devices for Vulnerability Detection | [source code](https://github.com/OCyberLab/ChipFuzzer)
+
 [Evaluation of Hardware Fuzzing](https://www.esat.kuleuven.be/cosic/thesis/2026/hw_fuzzing_evaluation.pdf) thesis proposal
 
 [Genesys-Pro: Innovations in Test Program Generation for Functional Processor Veriﬁcation](https://uobdv.github.io/Design-Verification/Supplementary/GenesysPro.pdf) old paper
