@@ -175,6 +175,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
 
+[Pfuzz: go module for fuzzing Verilog simulators and synthesizers](https://github.com/toby-bro/pfuzz)
+
 [Lost in Translation: Enabling Confused Deputy Attacks on EDA Software with TransFuzz](https://comsec.ethz.ch/research/hardware-design-security/mirtl/) | [source code](https://github.com/comsec-group/mirtl)
 
 [cpufuzz is a dumb, simple and portable CPU fuzzer](https://github.com/a0rtega/cpufuzz)
