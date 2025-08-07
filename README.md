@@ -175,6 +175,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
 
+[Bottom-Up Generation of Verilog Designs for Testing EDA Tools](https://arxiv.org/pdf/2504.06295) | [source for ChiGen Verilog fuzzer with type inference and gradual code injection](https://github.com/lac-dcc/chimera)
+
 [Pfuzz: go module for fuzzing Verilog simulators and synthesizers](https://github.com/toby-bro/pfuzz)
 
 [Lost in Translation: Enabling Confused Deputy Attacks on EDA Software with TransFuzz](https://comsec.ethz.ch/research/hardware-design-security/mirtl/) | [source code](https://github.com/comsec-group/mirtl)
@@ -232,3 +234,5 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [RTL Verification for Secure Speculation Using Contract Shadow Logic](https://arxiv.org/pdf/2407.12232) | [source code](https://github.com/qinhant/ShadowLogicArtifact)
 
 [Side-Channel Aware Fuzzing](https://arxiv.org/pdf/1908.05012)
+
+mchammer - synthesizing hardware machine check exceptions for processor exploitation and privilege escalation | [toolkit includes machine check synthesis kernel module and Northbridge MCE fuzzer](https://github.com/xoreaxeaxeax/mchammer)
