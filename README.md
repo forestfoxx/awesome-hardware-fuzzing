@@ -11,6 +11,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Cascade: CPU Fuzzing via Intricate Program Generation](https://github.com/comsec-group/cascade-artifacts) | [source code](https://github.com/comsec-group/cascade-artifacts)
 
+[FeedbackFuzz: Fuzzing Processors via Intricate Program Generation with Feedback Engine](https://ieeexplore.ieee.org/document/10889404)
+
 [Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl) and [PoCs](https://github.com/vusec/riscv-transient-attacks)
 
 [Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection](https://arxiv.org/pdf/2410.22555) | Note: hardware fuzzing + IFT (Specure, not yet opensource)
@@ -71,7 +73,7 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [VerilogReader: LLM-Aided Hardware Test Generation](https://arxiv.org/pdf/2406.04373) | [source code](https://github.com/magicYang1573/llm-hardware-test-generation)
 
-Bridging the Gap between Hardware Fuzzing and Industrial Verification | [source code](https://github.com/magicYang1573/fast-hw-fuzz)
+[Bridging the Gap between Hardware Fuzzing and Industrial Verification](https://arxiv.org/pdf/2506.00461) | [source code](https://github.com/magicYang1573/fast-hw-fuzz)
 
 Pre-Silicon Hardware Fuzzing Toolkit | [source code](https://github.com/IntelLabs/PreSiFuzz)
 
