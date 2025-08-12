@@ -194,6 +194,8 @@ ChipFuzzer: Towards Fuzzing Matter-based IoT Devices for Vulnerability Detection
 [Evaluation of Hardware Fuzzing](https://www.esat.kuleuven.be/cosic/thesis/2026/hw_fuzzing_evaluation.pdf) thesis proposal
 
 [Genesys-Pro: Innovations in Test Program Generation for Functional Processor Veriﬁcation](https://uobdv.github.io/Design-Verification/Supplementary/GenesysPro.pdf) old paper
+
+[EMFuzz: Use Electromagnetic Fuzzing for Automated Attack Surface Assessment of Actuators](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11121353)
       
 Other methodologies (honestly they deserve their own separate list because it's often not directly related to fuzzing but since I found them while researching fuzzing approaches I include them here for comparison sake and for my own convenience)
 
