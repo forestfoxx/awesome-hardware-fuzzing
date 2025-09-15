@@ -191,7 +191,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Fuzzing on a ChipWhisperer-Nano](https://github.com/x41sec/ChipFuzz)
 
-ChipFuzzer: Towards Fuzzing Matter-based IoT Devices for Vulnerability Detection | [source code](https://github.com/OCyberLab/ChipFuzzer)
+[ChipFuzzer: Towards Fuzzing Matter-based IoT Devices for Vulnerability Detection](https://link.springer.com/chapter/10.1007/978-3-031-94455-0_2) | [source code](https://github.com/OCyberLab/ChipFuzzer)
 
 [Evaluation of Hardware Fuzzing](https://www.esat.kuleuven.be/cosic/thesis/2026/hw_fuzzing_evaluation.pdf) thesis proposal
 
