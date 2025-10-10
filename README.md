@@ -3,6 +3,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [The Emergence of Hardware Fuzzing: A Critical Review of its Significance](https://arxiv.org/html/2403.12812v1)
 
+[State of Hardware Fuzzing: Current Methods and the Potential of Machine Learning and Large Language Models](https://www.isqed.org/English/Proceedings/pdf/4C-2-176.pdf)
+
 [The Fuzz Odyssey: A Survey on Hardware Fuzzing Frameworks for Hardware Design Verification](https://dl.acm.org/doi/fullHtml/10.1145/3649476.3658697)
 
 [Fuzzing Hardware Like Software](https://www.usenix.org/system/files/sec22-trippel.pdf) | [source code](https://github.com/googleinterns/hw-fuzzing)
