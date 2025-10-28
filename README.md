@@ -83,6 +83,8 @@ DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction | [source c
 
 Pre-Silicon Hardware Fuzzing Toolkit | [source code](https://github.com/IntelLabs/PreSiFuzz)
 
+[TestRIG - Testing processors with Random Instruction Generation](https://github.com/CTSRD-CHERI/TestRIG) | [paper](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/202402-testrig.pdf) [blogpost](https://riscv.org/blog/testrig-randomized-testing-of-risc-v-cpus/)
+
 [Sandsifter: the x86 processor fuzzer](https://www.blackhat.com/docs/us-17/thursday/us-17-Domas-Breaking-The-x86-ISA.pdf) | [source code](https://github.com/xoreaxeaxeax/sandsifter), [python3 port](https://github.com/jakiki6/sandsifter), [test runs repo](https://github.com/rigred/sandsifter-tests), [fork with some fixes](https://github.com/rigred/sandsifter), [Black Hat talk](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 
 Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [sandsifterOS](https://github.com/MikeHorn-git/sandsifterOS), [baresifter](https://github.com/blitz/baresifter)
