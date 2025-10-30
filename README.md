@@ -11,6 +11,10 @@ A curated list of research and repositories on the novel technique of hardware f
 		
 [MileSan: Detecting Exploitable Microarchitectural Leakage via Differential Hardware-Software Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/) | [source code](https://github.com/comsec-group/milesan-meta)					
 
+[ExfilState: Automated Discovery of Timer-Free Cache Side Channels on ARM CPUs](https://fabianthomas.de/publications/2025/thomas2025exfilstate/) | [source code](https://github.com/cispa/ExfilState) and [artifacts](https://github.com/cispa/ExfilState-artifacts)
+
+[RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs](https://ghostwriteattack.com/riscover_ccs25.pdf) | [source code](https://github.com/cispa/RISCover) and [artifacts](https://github.com/cispa/RISCover-artifacts)
+
 DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction | [source code](https://github.com/In2Sec/DiveFuzz)
 
 [Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection](https://comsec.ethz.ch/research/hardware-design-security/encarsia/) | [source code](https://github.com/comsec-group/encarsia)
@@ -36,6 +40,8 @@ DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction | [source c
 [SpecFuzz: Bringing Spectre-type vulnerabilities to the surface](https://arxiv.org/abs/1905.10311) | [source code](https://github.com/OleksiiOleksenko/SpecFuzz)
 
 [Blacksmith: Scalable Rowhammering in the Frequency Domain](https://comsec.ethz.ch/wp-content/files/blacksmith_sp22.pdf) | [source code](https://github.com/comsec-group/blacksmith)
+
+[A Rowhammer Reproduction Study Using the Blacksmith Fuzzer](https://fabianthomas.de/publications/2023/gerlach2023rowhammer/)
 
 [ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms](https://comsec.ethz.ch/research/dram/zenhammer/) | [source code](https://github.com/comsec-group/zenhammer)
 
