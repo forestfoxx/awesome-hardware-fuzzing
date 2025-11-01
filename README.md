@@ -17,6 +17,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction | [source code](https://github.com/In2Sec/DiveFuzz)
 
+ufuzz - A microcode-feedback-enhaced post-silicon x86 CPU fuzzer | [source code](https://github.com/0xCCF4/ufuzz), paper to be presented on NDSS'26
+
 [Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection](https://comsec.ethz.ch/research/hardware-design-security/encarsia/) | [source code](https://github.com/comsec-group/encarsia)
 
 [Cascade: CPU Fuzzing via Intricate Program Generation](https://github.com/comsec-group/cascade-artifacts) | [source code](https://github.com/comsec-group/cascade-artifacts)
