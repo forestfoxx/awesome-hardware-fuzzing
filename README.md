@@ -256,3 +256,9 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [Side-Channel Aware Fuzzing](https://arxiv.org/pdf/1908.05012)
 
 mchammer - synthesizing hardware machine check exceptions for processor exploitation and privilege escalation | [toolkit includes machine check synthesis kernel module and Northbridge MCE fuzzer](https://github.com/xoreaxeaxeax/mchammer)
+
+**Education materials:**
+
+Secure hardware design course at MIT has a CPU fuzzing lab:
+
+https://csg.csail.mit.edu/6.S983/labs/fuzz/
