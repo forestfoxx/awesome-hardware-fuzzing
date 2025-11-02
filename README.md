@@ -262,3 +262,5 @@ mchammer - synthesizing hardware machine check exceptions for processor exploita
 Secure hardware design course at MIT has a CPU fuzzing lab:
 
 https://csg.csail.mit.edu/6.S983/labs/fuzz/
+
+https://github.com/MATCHA-MIT/SHD-StarterCode
