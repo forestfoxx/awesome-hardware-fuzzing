@@ -119,7 +119,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Symbolic Simulation Enhanced Coverage-Directed Fuzz Testing of RTL Design](https://ieeexplore.ieee.org/document/9401267) | [slides](https://confcats-event-sessions.s3.amazonaws.com/iscas21/slides/1259.pdf)
 
-[Grammar-based fuzz testing for microprocessor RTL design](https://dl.acm.org/doi/10.1016/j.vlsi.2022.05.001)
+[Grammar-based fuzz testing for microprocessor RTL design](https://www.sciencedirect.com/science/article/pii/S0167926022000529)
 
 [UISFuzz: An Efficient Fuzzing Method for CPU Undocumented Instruction Searching](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8863327)
 
@@ -129,7 +129,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing](https://ieeexplore.ieee.org/abstract/document/10546625)
 
-[RLFuzz: Accelerating Hardware Fuzzing with Deep Reinforcement Learning](https://www.bibsonomy.org/bibtex/2229ab60e60c1b371f6a6ac51f3e368af/raphael.goetz) | also see [HYDRANOS project](https://hydranos.eu/)
+[RLFuzz: Accelerating Hardware Fuzzing with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11050051) [alt link](https://www.bibsonomy.org/bibtex/2229ab60e60c1b371f6a6ac51f3e368af/raphael.goetz) | also see [HYDRANOS project](https://hydranos.eu/)
 
 [TaintFuzzer: SoC Security Verification using Taint Inference-enabled Fuzzing](https://ieeexplore.ieee.org/document/10323726)
 
@@ -254,6 +254,8 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [End-to-End Automated Exploit Generation for Validating the Security of Processor Designs](https://www.cs.unc.edu/~rzhang/files/MICRO2018.pdf) | [source code](https://github.com/rzhang2285/Coppelia)
 
 [RTL-ConTest: Concolic Testing on RTL for Detecting Security Vulnerabilities](https://ieeexplore.ieee.org/document/9380345) | [source code](https://github.com/UTD-TIES-LAB/RTL-Contest)
+
+[Automatic Test Generator for SystemVerilog based on concolic testing](https://github.com/pfnet-research/ATPG4SV)
 
 [RTL Verification for Secure Speculation Using Contract Shadow Logic](https://arxiv.org/pdf/2407.12232) | [source code](https://github.com/qinhant/ShadowLogicArtifact)
 
