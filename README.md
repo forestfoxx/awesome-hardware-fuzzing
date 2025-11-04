@@ -35,6 +35,8 @@ ufuzz - A microcode-feedback-enhaced post-silicon x86 CPU fuzzer | [source code]
 
 [Hide and Seek with Spectres: Efﬁcient discovery of speculative information leaks with random testing](https://arxiv.org/pdf/2301.07642) | [source code](https://github.com/microsoft/sca-fuzzer)
 
+[AMuLeT: Automated Design-Time Testing of Secure Speculation Countermeasures](https://mguarnieri.github.io/publication/asplos2025/asplos2025.pdf) | [source code](https://github.com/sith-lab/amulet)
+
 [Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions](https://www.usenix.org/conference/usenixsecurity23/presentation/hofmann) | [source code](https://github.com/microsoft/sca-fuzzer) and [artifact](https://github.com/vusec/SpeculationAtFault-AE)
 
 [Testing side-channel security of cryptographic implementations against future microarchitectures](https://arxiv.org/pdf/2402.00641) | [source code](https://github.com/hw-sw-contracts/leakage-model-testing)
@@ -226,6 +228,8 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in RTL](https://comsec.ethz.ch/research/hardware-design-security/cellift/) | [source code](https://github.com/comsec-group/cellift-meta)
 
 [A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications](https://radu.teodorescu.us/assets/pdf/barber_cal2022.pdf)
+
+[Validation of Side-Channel Models via Observation Refinement](https://hnemati.github.io/paper/micro21.pdf) | [source code](https://github.com/kth-step/HolBA/tree/master/src/tools/scamv)
 
 [HardFails: Insights into Software-Exploitable Hardware Bugs](https://www.usenix.org/system/files/sec19-dessouky.pdf)
 
