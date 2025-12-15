@@ -15,6 +15,12 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs](https://ghostwriteattack.com/riscover_ccs25.pdf) | [source code](https://github.com/cispa/RISCover) and [artifacts](https://github.com/cispa/RISCover-artifacts)
 
+Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer | paper to be presented on NDSS'26
+
+GoldenFuzz: Generative Golden Reference Hardware Fuzzing | paper to be presented on NDSS'26
+
+ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits | paper to be presented on NDSS'26
+
 [DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction](https://dl.acm.org/doi/10.1145/3719027.3765167) | [source code](https://github.com/In2Sec/DiveFuzz)
 
 ufuzz - A microcode-feedback-enhaced post-silicon x86 CPU fuzzer | [source code](https://github.com/0xCCF4/ufuzz), paper to be presented on NDSS'26
