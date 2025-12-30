@@ -35,7 +35,7 @@ ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits | paper to b
 
 [SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs](https://arxiv.org/abs/2504.18812)
 
-[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](https://arxiv.org/pdf/2509.20808)
+[PROFUZZ: Directed Graybox Fuzzing via Module Selection and ATPG-Guided Seed Generation](https://arxiv.org/pdf/2509.20808) | [source code](https://github.com/HArt-Git/PROFUZZ)
 
 [Invited Paper: CURE-Fuzz: Curiosity-Driven Reinforcement Learning for Agile Hardware Testing](https://ieeexplore.ieee.org/document/11240915) | [source code](https://github.com/soarsmu/CureFuzz)
 
