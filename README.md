@@ -15,21 +15,33 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [RISCover: Automatic Discovery of User-exploitable Architectural Security Vulnerabilities in Closed-Source RISC-V CPUs](https://ghostwriteattack.com/riscover_ccs25.pdf) | [source code](https://github.com/cispa/RISCover) and [artifacts](https://github.com/cispa/RISCover-artifacts)
 
-Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer | paper to be presented on NDSS'26
-
 GoldenFuzz: Generative Golden Reference Hardware Fuzzing | paper to be presented on NDSS'26
 
 ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits | paper to be presented on NDSS'26
 
 [DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction](https://dl.acm.org/doi/10.1145/3719027.3765167) | [source code](https://github.com/In2Sec/DiveFuzz)
 
-ufuzz - A microcode-feedback-enhaced post-silicon x86 CPU fuzzer | [source code](https://github.com/0xCCF4/ufuzz), paper to be presented on NDSS'26
+[Fuzzilicon - A Post-Silicon Microcode-Guided x86 CPU Fuzzer](https://arxiv.org/pdf/2512.23438) | [source code](https://github.com/0xCCF4/ufuzz) [zenodo](https://zenodo.org/records/17062689), paper to be presented on NDSS'26
 
 [Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection](https://comsec.ethz.ch/research/hardware-design-security/encarsia/) | [source code](https://github.com/comsec-group/encarsia)
 
 [Cascade: CPU Fuzzing via Intricate Program Generation](https://github.com/comsec-group/cascade-artifacts) | [source code](https://github.com/comsec-group/cascade-artifacts)
 
 [FeedbackFuzz: Fuzzing Processors via Intricate Program Generation with Feedback Engine](https://ieeexplore.ieee.org/document/10889404)
+
+[SymbFuzz: Symbolic Execution Guided Hardware Fuzzing](https://dl.acm.org/doi/10.1145/3725843.3756131)
+
+[BMCFuzz: Hybrid Verification of Processors by Synergistic Integration of Bound Model Checking and Fuzzing](https://ieeexplore.ieee.org/document/11240887) | [source code](https://github.com/iscas-versys/BMCFuzz)
+
+[SynFuzz: Leveraging Fuzzing of Netlist to Detect Synthesis Bugs](https://arxiv.org/abs/2504.18812)
+
+[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](https://arxiv.org/pdf/2509.20808)
+
+[Invited Paper: CURE-Fuzz: Curiosity-Driven Reinforcement Learning for Agile Hardware Testing](https://ieeexplore.ieee.org/document/11240915) | [source code](https://github.com/soarsmu/CureFuzz)
+
+[FuSS: Coverage-Directed Hardware Fuzzing with Selective Symbolic Execution](https://dl.acm.org/doi/10.1145/3760529)
+
+[Microarchitecture Evaluation Framework for Transient Execution Attack Vulnerability: Metrics, Fuzzing, and Sensitivity Analysis](https://dl.acm.org/doi/10.1145/3716368.3735225)
 
 [Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl) and [PoCs](https://github.com/vusec/riscv-transient-attacks)
 
@@ -86,6 +98,8 @@ ufuzz - A microcode-feedback-enhaced post-silicon x86 CPU fuzzer | [source code]
 [MorFuzz: Fuzzing Processor via Runtime Instruction Morphing Enhanced Synchronizable Co-simulation](https://www.usenix.org/system/files/sec23fall-prepub-7-xu-jinyan.pdf) | [source code](https://github.com/sycuricon/MorFuzz)
 
 [DejaVuzz: Disclosing Transient Execution Bugs with Dynamic Swappable Memory and Differential Information Flow Tracking assisted Processor Fuzzing](https://www.arxiv.org/pdf/2504.20934) | [source code](https://github.com/sycuricon/DejaVuzz)
+
+[Sonar: A Hardware Fuzzing Framework to Uncover Contention Side Channels in Processors](https://dl.acm.org/doi/full/10.1145/3725843.3756136)
                 
 [Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis](https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-medusa) | [source code](https://github.com/flowyroll/medusa)                
 
@@ -199,6 +213,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Accelerating Coverage Directed Test Generation for Functional Verification: A Neural Network-based Framework](https://dl.acm.org/doi/10.1145/3194554.3194561)
 
+[Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations](https://xgdsmileboy.github.io/files/paper/chip-icse23.pdf) | [repo](https://github.com/Jacob-yen/LMT)
+
 [Verismith: Verilog hardware synthesis tool fuzzer](https://github.com/ymherklotz/verismith)
 
 [Bottom-Up Generation of Verilog Designs for Testing EDA Tools](https://arxiv.org/pdf/2504.06295) | [source for ChiGen Verilog fuzzer with type inference and gradual code injection](https://github.com/lac-dcc/chimera)
@@ -226,6 +242,8 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [Graph Neural Network based Hardware Trojan Detection at Intermediate Representative for SoC Platforms](https://dl.acm.org/doi/pdf/10.1145/3526241.3530827)
 
 [TIUP : Effective Processor Verification with Tautology-Induced Universal Properties](https://dl.acm.org/doi/10.1109/ASP-DAC58780.2024.10473912) | [source code](https://github.com/CrazybinaryLi/TPV)
+
+[µRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning](https://arxiv.org/pdf/2502.14307)
 
 [Isadora: Auromated information-flow property generation for hardware security verification](https://kastner.ucsd.edu/wp-content/uploads/2022/11/admin/jcen2022-isadora.pdf) 
 
@@ -256,6 +274,8 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [Hardware Support to Improve Fuzzing Performance and Precision](https://gts3.org/assets/papers/2021/ding:snap.pdf) | [source code](https://github.com/sslab-gatech/SNAP)
 
 [A Methodology for Testing CPU Emulators](https://dl.acm.org/doi/10.1145/2522920.2522922) | [source code](https://github.com/sevenseasofbri/EmuFuzz)
+
+[RVISmith: Fuzzing Compilers for RVV Intrinsics](https://dl.acm.org/doi/epdf/10.1145/3719027.3744790) | [source code](https://github.com/yibo2000/RVISmith) and [artifacts](https://zenodo.org/records/15548270)
 
 [End-to-End Automated Exploit Generation for Validating the Security of Processor Designs](https://www.cs.unc.edu/~rzhang/files/MICRO2018.pdf) | [source code](https://github.com/rzhang2285/Coppelia)
 
