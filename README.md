@@ -37,7 +37,7 @@ ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits | paper to b
 
 [PROFUZZ: Directed Graybox Fuzzing via Module Selection and ATPG-Guided Seed Generation](https://arxiv.org/pdf/2509.20808) | [source code](https://github.com/HArt-Git/PROFUZZ)
 
-[Invited Paper: CURE-Fuzz: Curiosity-Driven Reinforcement Learning for Agile Hardware Testing](https://ieeexplore.ieee.org/document/11240915) | [source code](https://github.com/soarsmu/CureFuzz)
+[Invited Paper: CURE-Fuzz: Curiosity-Driven Reinforcement Learning for Agile Hardware Testing](https://ieeexplore.ieee.org/document/11240915) 
 
 [FuSS: Coverage-Directed Hardware Fuzzing with Selective Symbolic Execution](https://dl.acm.org/doi/10.1145/3760529)
 
