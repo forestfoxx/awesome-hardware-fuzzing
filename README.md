@@ -8,6 +8,12 @@ A curated list of research and repositories on the novel technique of hardware f
 [The Fuzz Odyssey: A Survey on Hardware Fuzzing Frameworks for Hardware Design Verification](https://dl.acm.org/doi/fullHtml/10.1145/3649476.3658697)
 
 [Fuzzing Hardware Like Software](https://www.usenix.org/system/files/sec22-trippel.pdf) | [source code](https://github.com/googleinterns/hw-fuzzing)
+
+[HWFuzz: An FPGA-Accelerated Fuzzing Framework for Efficient RISC-V Verification](https://riscv-europe.org/summit/2025/media/proceedings/2025-05-14-RISC-V-Summit-Europe-P2.2.04-ZHONG-abstract.pdf)
+
+[Lyra: A Hardware-Accelerated RISC-V Verification Framework with Generative Model-Based Processor Fuzzing](https://arxiv.org/html/2512.13686v2)
+
+[TurboFuzz: FPGA Accelerated Hardware Fuzzing for Processor Agile Verification](https://arxiv.org/html/2509.10400v1) | [source code](https://zenodo.org/records/17996163)
 		
 [MileSan: Detecting Exploitable Microarchitectural Leakage via Differential Hardware-Software Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/) | [source code](https://github.com/comsec-group/milesan-meta)					
 
@@ -232,6 +238,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 [ChipFuzzer: Towards Fuzzing Matter-based IoT Devices for Vulnerability Detection](https://link.springer.com/chapter/10.1007/978-3-031-94455-0_2) | [source code](https://github.com/OCyberLab/ChipFuzzer)
 
 [Evaluation of Hardware Fuzzing](https://www.esat.kuleuven.be/cosic/thesis/2026/hw_fuzzing_evaluation.pdf) thesis proposal
+
+[Increasing Efficiency and Explainability of Hardware Verification with Fuzzing Techniques](https://trust.cispa.saarland/theses/topics/hardware_fuzzing/) thesis proposal
 
 [Genesys-Pro: Innovations in Test Program Generation for Functional Processor Veriﬁcation](https://uobdv.github.io/Design-Verification/Supplementary/GenesysPro.pdf) old paper
 
