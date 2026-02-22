@@ -15,7 +15,7 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [TurboFuzz: FPGA Accelerated Hardware Fuzzing for Processor Agile Verification](https://arxiv.org/html/2509.10400v1) | [source code](https://zenodo.org/records/17996163)
 		
-[MileSan: Detecting Exploitable Microarchitectural Leakage via Differential Hardware-Software Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/) | [source code](https://github.com/comsec-group/milesan-meta)					
+[MileSan: Detecting Exploitable Microarchitectural Leakage via Differential Hardware-Software Taint Tracking](https://comsec.ethz.ch/research/hardware-design-security/milesan-detecting-exploitable-microarchitectural-leakage-via-differential-hardware-software-taint-tracking/) | [source code](https://github.com/milesan-artifacts/milesan-meta)					
 
 [ExfilState: Automated Discovery of Timer-Free Cache Side Channels on ARM CPUs](https://fabianthomas.de/publications/2025/thomas2025exfilstate/) | [source code](https://github.com/cispa/ExfilState) and [artifacts](https://github.com/cispa/ExfilState-artifacts)
 
