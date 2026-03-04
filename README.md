@@ -27,7 +27,9 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction](https://dl.acm.org/doi/10.1145/3719027.3765167) | [source code](https://github.com/In2Sec/DiveFuzz)
 
-[Fuzzilicon - A Post-Silicon Microcode-Guided x86 CPU Fuzzer](https://arxiv.org/pdf/2512.23438) | [source code](https://github.com/0xCCF4/ufuzz) [zenodo](https://zenodo.org/records/17062689), paper to be presented on NDSS'26
+[Fuzzilicon - A Post-Silicon Microcode-Guided x86 CPU Fuzzer](https://www.ndss-symposium.org/ndss-paper/fuzzilicon-a-post-silicon-microcode-guided-x86-cpu-fuzzer/) | [source code](https://github.com/0xCCF4/ufuzz) [zenodo](https://zenodo.org/records/17062689)
+
+[PORTRUSH: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing](https://www.ndss-symposium.org/wp-content/uploads/2026-f587-paper.pdf)
 
 [Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection](https://comsec.ethz.ch/research/hardware-design-security/encarsia/) | [source code](https://github.com/comsec-group/encarsia)
 
@@ -243,6 +245,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Genesys-Pro: Innovations in Test Program Generation for Functional Processor Veriﬁcation](https://uobdv.github.io/Design-Verification/Supplementary/GenesysPro.pdf) old paper
 
+[StressTest: an automatic approach to test generation via activity monitors](https://dl.acm.org/doi/10.1145/1065579.1065788) old paper
+
 [EMFuzz: Use Electromagnetic Fuzzing for Automated Attack Surface Assessment of Actuators](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11121353)
       
 Other methodologies (honestly they deserve their own separate list because it's often not directly related to fuzzing but since I found them while researching fuzzing approaches I include them here for comparison sake and for my own convenience)
@@ -293,7 +297,11 @@ Other methodologies (honestly they deserve their own separate list because it's 
 
 [RTL Verification for Secure Speculation Using Contract Shadow Logic](https://arxiv.org/pdf/2407.12232) | [source code](https://github.com/qinhant/ShadowLogicArtifact)
 
+[Processor Verification by Equivalent Program Execution](https://link.springer.com/chapter/10.1007/978-3-031-83093-8_3)
+
 [Side-Channel Aware Fuzzing](https://arxiv.org/pdf/1908.05012)
+
+[PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf)
 
 mchammer - synthesizing hardware machine check exceptions for processor exploitation and privilege escalation | [toolkit includes machine check synthesis kernel module and Northbridge MCE fuzzer](https://github.com/xoreaxeaxeax/mchammer)
 
