@@ -129,6 +129,10 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Uncovering Hidden Instructions in Armv8-A Implementations](https://rakeshk.folk.ntnu.no/pubs/armshaker_HASP20.pdf) | [source code for Armshaker](https://github.com/frestr/armshaker)
 
+[iScanU: A Portable Scanner for Undocumented Instructions on RISC Processors](https://research.vu.nl/ws/portalfiles/portal/260192654/1887_3620481_iScanU_A_Portable_Scanner_for_Undocumented_Instructions_on_RISC_Processors.pdf) | [source code](https://github.com/RensDofferhoff/iScanU)
+
+[InstrSem: Automatically and Generically Inferring Semantics of (Undocumented) CPU Instructions](https://misc0110.net/files/instrsem_sec26.pdf) | [source code](https://github.com/cispa/InstrSem) and [artifact](https://zenodo.org/records/17974657)
+
 [Osiris: Automated Discovery of Microarchitectural Side Channels](https://www.usenix.org/system/files/sec21-weber.pdf) | [source code](https://github.com/cispa/osiris)
 
 [Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels](https://hnemati.github.io/paper/ccs22-leakagetemplates.pdf) | [source code for Plumber](https://github.com/scy-phy/plumber/)
