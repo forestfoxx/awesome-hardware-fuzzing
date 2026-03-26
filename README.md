@@ -147,7 +147,7 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Functional Verification for Agile Processor Development: A Case for Workflow Integration](https://github.com/OpenXiangShan/XiangShan-doc/raw/main/publications/jcst2023-workflow-integration.pdf) | [source code](https://github.com/openxiangshan/difftest)
 
-[SSFuzz: Generating syntactic and semantic seeds for RISC-V Processors](https://dl.acm.org/doi/abs/10.1145/3649476.3658712) | [source code](https://github.com/ipasslab/SSFuzz) (not yet opensource?)
+[SSFuzz: Generating syntactic and semantic seeds for RISC-V Processors](https://dl.acm.org/doi/abs/10.1145/3649476.3658712) 
 
 [Symbolic Simulation Enhanced Coverage-Directed Fuzz Testing of RTL Design](https://ieeexplore.ieee.org/document/9401267) | [slides](https://confcats-event-sessions.s3.amazonaws.com/iscas21/slides/1259.pdf)
 
