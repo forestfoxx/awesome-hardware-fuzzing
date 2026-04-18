@@ -51,6 +51,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [Microarchitecture Evaluation Framework for Transient Execution Attack Vulnerability: Metrics, Fuzzing, and Sensitivity Analysis](https://dl.acm.org/doi/10.1145/3716368.3735225)
 
+[TREVEX: A Black-Box Detection Framework For Data-Flow Transient Execution Vulnerabilities](https://d-we.me/papers/trevex_sp26.pdf) | [source code](https://github.com/cispa/trevex)
+
 [Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://download.vusec.net/papers/phantom-trails_sec25.pdf) | [source code](https://github.com/vusec/phantom-trails) and [artifacts](https://zenodo.org/records/14726711) and [this repo](https://github.com/vusec/hw-fuzzing-libafl) and [PoCs](https://github.com/vusec/riscv-transient-attacks)
 
 [Lost and Found in Speculation: Hybrid Speculative Vulnerability Detection](https://arxiv.org/pdf/2410.22555) | Note: hardware fuzzing + IFT (Specure, not yet opensource)
@@ -270,6 +272,8 @@ Other methodologies (honestly they deserve their own separate list because it's 
 [A Pre-Silicon Approach to Discovering Microarchitectural Vulnerabilities in Security Critical Applications](https://radu.teodorescu.us/assets/pdf/barber_cal2022.pdf)
 
 [Validation of Side-Channel Models via Observation Refinement](https://hnemati.github.io/paper/micro21.pdf) | [source code](https://github.com/kth-step/HolBA/tree/master/src/tools/scamv)
+
+[Shesha: Multi-head Microarchitectural Leakage Discovery in new-generation Intel Processors](https://www.usenix.org/system/files/usenixsecurity24-chakraborty.pdf) | [source code](https://github.com/SEAL-IIT-KGP/shesha)
 
 [HardFails: Insights into Software-Exploitable Hardware Bugs](https://www.usenix.org/system/files/sec19-dessouky.pdf)
 
