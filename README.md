@@ -27,6 +27,8 @@ A curated list of research and repositories on the novel technique of hardware f
 
 [DiveFuzz: Enhancing CPU Fuzzing via Diverse Instruction Construction](https://dl.acm.org/doi/10.1145/3719027.3765167) | [source code](https://github.com/In2Sec/DiveFuzz)
 
+Fuzzitizer: Hardware Sanitizer-Assisted Fuzzing for Automated SoC Vulnerability Detection (Asia CCS 2026)
+
 [Fuzzilicon - A Post-Silicon Microcode-Guided x86 CPU Fuzzer](https://www.ndss-symposium.org/ndss-paper/fuzzilicon-a-post-silicon-microcode-guided-x86-cpu-fuzzer/) | [source code](https://github.com/0xCCF4/ufuzz) [zenodo](https://zenodo.org/records/17062689)
 
 [PORTRUSH: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing](https://www.ndss-symposium.org/wp-content/uploads/2026-f587-paper.pdf)
