@@ -103,9 +103,9 @@ Fuzzitizer: Hardware Sanitizer-Assisted Fuzzing for Automated SoC Vulnerability 
 
 [GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs](https://tsung-wei-huang.github.io/papers/2023-dac.pdf) | [source code](https://github.com/dian-lun-lin/GenFuzz)
 
-[ProcessorFuzz: Guiding Processor Fuzzing using Control and Status Registers](https://ieeexplore.ieee.org/document/10133714) | [source code](https://github.com/bu-icsg/ProcessorFuzz)
+[ProcessorFuzz: Guiding Processor Fuzzing using Control and Status Registers](https://ieeexplore.ieee.org/document/10133714) | [source code](https://github.com/bu-icsg/ProcessorFuzz) and derived project [Fine-Grained Code Analysis for Processor Fuzzing](https://github.com/HKUSTGZ-MICS-LYU/FineGrainedFuzz)
 
-[DIFUZZ RTL: Differential Fuzz Testing to Find CPU Bugs](https://jaewonhur.github.io/files/jwhur-difuzzrtl.pdf) | [source code](https://github.com/compsec-snu/difuzz-rtl)
+[DIFUZZ RTL: Differential Fuzz Testing to Find CPU Bugs](https://jaewonhur.github.io/files/jwhur-difuzzrtl.pdf) | [source code](https://github.com/compsec-snu/difuzz-rtl) 
 
 [MorFuzz: Fuzzing Processor via Runtime Instruction Morphing Enhanced Synchronizable Co-simulation](https://www.usenix.org/system/files/sec23fall-prepub-7-xu-jinyan.pdf) | [source code](https://github.com/sycuricon/MorFuzz)
 
