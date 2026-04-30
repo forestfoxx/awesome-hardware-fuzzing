@@ -239,6 +239,8 @@ Work inspired by sandsifter: [vmsifter](https://github.com/intel/vmsifter), [san
 
 [Bottom-Up Generation of Verilog Designs for Testing EDA Tools](https://arxiv.org/pdf/2504.06295) | [source for ChiGen Verilog fuzzer with type inference and gradual code injection](https://github.com/lac-dcc/chimera)
 
+[Finding and Understanding Bugs in FPGA Place-and-Route Engines](https://johnwickerson.github.io/papers/fuzzing_pnr.pdf) | [source code for FUZNET](https://github.com/splogdes/fuznet)
+
 [Pfuzz: go module for fuzzing Verilog simulators and synthesizers](https://github.com/toby-bro/pfuzz)
 
 [Lost in Translation: Enabling Confused Deputy Attacks on EDA Software with TransFuzz](https://comsec.ethz.ch/research/hardware-design-security/mirtl/) | [source code](https://github.com/comsec-group/mirtl)
