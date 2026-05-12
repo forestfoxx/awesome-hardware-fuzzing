@@ -328,3 +328,7 @@ Secure hardware design course at MIT has a CPU fuzzing lab:
 https://csg.csail.mit.edu/6.S983/labs/fuzz/
 
 https://github.com/MATCHA-MIT/SHD-StarterCode
+
+Tips & tricks for developing and fuzzing RISC-V BOOM from VUSec:
+
+https://github.com/AlviseDeFaveri/boom-dev-cheatsheet
