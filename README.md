@@ -29,9 +29,9 @@ A curated list of research and repositories on the novel technique of hardware f
 
 Fuzzitizer: Hardware Sanitizer-Assisted Fuzzing for Automated SoC Vulnerability Detection (Asia CCS 2026)
 
-Advanced Hybrid Hardware Fuzzing (DATE 2026)
+[Advanced Hybrid Hardware Fuzzing](https://past.date-conference.com/proceedings-archive/2026/DATA/7111.pdf)
 
-What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative AI (DATE 2026)
+[What the Fuzz! Pushing Beyond Randomness in Hardware Security with Generative AI](https://past.date-conference.com/proceedings-archive/2026/DATA/7107.pdf)
 
 [Fuzzilicon - A Post-Silicon Microcode-Guided x86 CPU Fuzzer](https://www.ndss-symposium.org/ndss-paper/fuzzilicon-a-post-silicon-microcode-guided-x86-cpu-fuzzer/) | [source code](https://github.com/0xCCF4/ufuzz) [zenodo](https://zenodo.org/records/17062689)
 
